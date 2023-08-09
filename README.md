@@ -20,7 +20,7 @@
 📊 **Most Used Languages:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliustheCreator&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliustheCreator&layout=compact&theme=radical&exclude_repo=channel-growth-model" alt="Most Used Languages">
 </p>
 
 
