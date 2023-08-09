@@ -1,16 +1,28 @@
-### Hi there 👋
+# Julius Broomfield (a.k.a. @juliusthecreator)
 
-<!--
-**JuliustheCreator/JuliustheCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JuliustheCreator&label=Profile%20views&color=0e75b6&style=flat" alt="JuliustheCreator" /> </p>
 
-Here are some ideas to get you started:
+- 📚 I'm currently learning **React**, **Typescript**, and **SQL** and relearning **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on any **full-stack** projects involving **machine learning**
+
+- 🔎 Looking for **research** opportunities in **AI** or **HCI** or **math (logic, number theory, set theory, graph theory)**
+
+🔧 **Tools and Technologies:**
+
+`Python` `Git` `Pandas` `Numpy` `Jupyter Notebook` `Scikit-learn` `Tensorflow` `Flask` `Matplotlib` `Seaborn` `Linux` `HTML` `CSS` `JavaScript`
+
+📧 **Get in touch:**
+[broomfieldjuliusr@gmail.com](mailto:broomfieldjuliusr@email.com)
+
+💻 **Site**: [juliusthecreator.github.io](juliusthecreator.github.io)
+
+📊 **Most Used Languages:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliustheCreator&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+
+---
+
