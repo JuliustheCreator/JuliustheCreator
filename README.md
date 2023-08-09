@@ -10,7 +10,7 @@
 
 🔧 **Tools and Technologies:**
 
-`Python` `Git` `Pandas` `Numpy` `Jupyter Notebook` `Scikit-learn` `Tensorflow` `Flask` `Matplotlib` `Seaborn` `Linux` `HTML` `CSS` `JavaScript`
+`Python` `Git` `Pandas` `Numpy` `Jupyter Notebook` `Scikit-learn` `Tensorflow` `Flask` `Matplotlib` `Seaborn` `Linux` `HTML` `CSS` `JavaScript` `Java` `Bash` `Swift` `PyGame`
 
 📧 **Get in touch:**
 [broomfieldjuliusr@gmail.com](mailto:broomfieldjuliusr@email.com)
