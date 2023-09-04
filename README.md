@@ -44,6 +44,5 @@ I’m looking to collaborate on any full-stack projects involving machine learni
 &nbsp;
 <span><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift logo" title="Swift" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PyGame-000000?style=for-the-badge&logo=pygame&logoColor=white" alt="PyGame logo" title="PyGame" height="25" /></span>
 
 </div>
