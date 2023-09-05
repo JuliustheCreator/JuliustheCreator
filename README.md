@@ -1,5 +1,5 @@
 Hi, I'm @JuliustheCreator or Julius Broomfield. 
-I'm currently learning C/C++ and relearning Java @ Georgia Tech. 
+I'm currently learning C/C++ and Julia @ Georgia Tech. 
 I’m looking to collaborate on any full-stack projects involving machine learning 🧃
 
 **🧪 Interested in Research Opportunities in**
