@@ -1,11 +1,11 @@
 Hi, I'm @JuliustheCreator or Julius Broomfield. 
 I'm currently learning C/C++ and Julia @ Georgia Tech. 
-I’m looking to collaborate on any full-stack projects involving machine learning 🧃
+I’m open to collaborate on any full-stack projects involving machine learning 🧃
 
 **🧪 Interested in Research Opportunities in**
 - Artificial Intelligence
 - Human-Computer Interaction
-- Mathematical Logic (Number Theory, Set Theory, Graph Theory)
+- Mathematics (Number Theory, Set Theory, Graph Theory)
 
 ⚙️ **Tools and Technologies:**
 
