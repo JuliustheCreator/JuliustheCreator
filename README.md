@@ -23,15 +23,11 @@ ____
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/BeautifulSoup-4A154B?style=for-the-badge&logo=codechef&logoColor=white" alt="BeautifulSoup logo" title="BeautifulSoup" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib logo with Plotly" title="Matplotlib with Plotly" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash logo" title="Bash" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Seaborn-00599C?style=for-the-badge&logo=openbsd&logoColor=white" alt="Seaborn with OpenBSD logo" title="Seaborn with OpenBSD logo" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia logo" title="Julia" height="25" /></span>
 &nbsp;
@@ -41,20 +37,24 @@ ____
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java-3271A5?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib logo with Plotly" title="Matplotlib with Plotly" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud logo" title="Google Cloud" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Seaborn-00599C?style=for-the-badge&logo=openbsd&logoColor=white" alt="Seaborn with OpenBSD logo" title="Seaborn with OpenBSD logo" height="25" /></span>
-
-
-
-
-
-
-
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash logo" title="Bash" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
 
 
 </div>
