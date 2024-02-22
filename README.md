@@ -2,8 +2,10 @@ Hi, I'm **@JuliustheCreator** or **Julius Broomfield**. 🐐
 
 I'm currently a **2nd** year CS student @ **Georgia Tech**. 🎓
 
-I’m open to collaborate on any projects involving **machine learning**. 🧃
+This summer I'm going to be a **software engineer** intern @ **Microsoft**. 💻\
+In the future I hope to be a **research engineer** in the **AI safety field**. 🤖
 
+I'm interested in chess, competitive programming, music, game theory, and philosophy. 📚
 ____
 
 <div align="center">
