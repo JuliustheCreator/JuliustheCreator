@@ -1,11 +1,11 @@
-Hi, I'm **@JuliustheCreator** or **Julius Broomfield**. 🐐
+hi, i'm **@JuliustheCreator** or **Julius Broomfield** 🐐
 
-I'm currently a **2nd** year CS student @ **Georgia Tech**. 🎓
+i'm currently a **2nd** year CS student @ **Georgia Tech** 🎓
 
-Right now I'm doing **AI alignment research** supervised by **Kellin Pelrine**. 📝\
-This summer I'm going to be a **software engineering intern** @ **Microsoft**. 💻\
+right now i'm doing **AI alignment research** 📝\
+this summer i'm going to be a **software engineering intern** @ **Microsoft** 💻
 
-I'm also interested in chess, competitive programming, music, game theory, and philosophy. 📚
+i'm also interested in chess, competitive programming, music, game theory, and philosophy. 📚
 ____
 
 <div align="center">
